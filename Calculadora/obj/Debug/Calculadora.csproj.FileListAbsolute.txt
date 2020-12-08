@@ -1,0 +1,27 @@
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\spier\OneDrive\Documents\Proyectos SENA Visual Studio\C#\Calculadora\Calculadora-Ricardo\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\spier\OneDrive\Documents\Proyectos SENA Visual Studio\C#\Calculadora\Calculadora-Ricardo\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\spier\OneDrive\Documents\Proyectos SENA Visual Studio\C#\Calculadora\Calculadora-Ricardo\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\spier\OneDrive\Documents\Proyectos SENA Visual Studio\C#\Calculadora\Calculadora-Ricardo\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\spier\OneDrive\Documents\Proyectos SENA Visual Studio\C#\Calculadora\Calculadora-Ricardo\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\spier\OneDrive\Documents\Proyectos SENA Visual Studio\C#\Calculadora\Calculadora-Ricardo\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\spier\OneDrive\Documents\Proyectos SENA Visual Studio\C#\Calculadora\Calculadora-Ricardo\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\spier\OneDrive\Documents\Proyectos SENA Visual Studio\C#\Calculadora\Calculadora-Ricardo\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\spier\OneDrive\Documents\Proyectos SENA Visual Studio\C#\Calculadora\Calculadora-Ricardo\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\spier\OneDrive\Documents\Proyectos SENA Visual Studio\C#\Calculadora\Calculadora-Ricardo\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\spier\OneDrive\Documents\Proyectos SENA Visual Studio\C#\Calculadora-JDC\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\spier\OneDrive\Documents\Proyectos SENA Visual Studio\C#\Calculadora-JDC\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\spier\OneDrive\Documents\Proyectos SENA Visual Studio\C#\Calculadora-JDC\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\spier\OneDrive\Documents\Proyectos SENA Visual Studio\C#\Calculadora-JDC\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\spier\OneDrive\Documents\Proyectos SENA Visual Studio\C#\Calculadora-JDC\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\spier\OneDrive\Documents\Proyectos SENA Visual Studio\C#\Calculadora-JDC\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\spier\OneDrive\Documents\Proyectos SENA Visual Studio\C#\Calculadora-JDC\Calculadora\obj\Debug\Calculadora.pdb
